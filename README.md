@@ -57,7 +57,7 @@ A test file was created on Windows and successfully read from Kali Linux to veri
 
 ## Evidence
 
-Screenshots documenting the configuration and verification steps are available in the [`evidence/`](evidence/) directory.
+Screenshots documenting the configuration and verification steps are available in the [`Evidence/`](Evidence/) directory.
 
 ## Snapshot
 
